@@ -49,6 +49,7 @@ header {
 article {
     display: flex ;
     flex-direction: column;
-    width: 800px;
+    width: 600px;
     column-gap: 20px;
+    row-gap: 20px;
 }
