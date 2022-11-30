@@ -51,5 +51,5 @@ article {
     flex-direction: column;
     width: 600px;
     column-gap: 20px;
-    row-gap: 20px;
+    row-gap: 40px;
 }
