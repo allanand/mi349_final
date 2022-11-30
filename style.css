@@ -1,5 +1,5 @@
 html {
-    background: #242424;
+    background: #ffff;
 }
 
 body {
@@ -7,7 +7,7 @@ body {
     color: #ffff;
     margin: 10px;
     padding: 40px;
-    border-top: 10px solid #ffff;
+    border-top: 10px solid #242424;
     background-color: #133b2e;
 }
 
