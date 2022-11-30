@@ -50,7 +50,5 @@ article {
     display: flex ;
     flex-direction: column;
     width: 600px;
-    column-gap: 60px;
-    row-gap: 40px;
     align-items: center;
 }
