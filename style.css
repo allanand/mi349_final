@@ -45,6 +45,6 @@ header {
     float: right;
 }
 
-p {
-    width: 500px;
+textarea {
+    width: 400px;
 }
