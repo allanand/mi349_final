@@ -46,7 +46,6 @@ header {
     margin-left: 200px;
 }
 
-* {
-    width: 1200px;
-    box-sizing: border-box;
+article {
+    display: flex;
 }
