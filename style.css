@@ -60,3 +60,7 @@ nav {
     display: flex ;
     flex-direction: row;
 }
+
+img {
+    float: right;
+}
