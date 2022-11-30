@@ -53,6 +53,7 @@ article {
     align-items: center;
     padding: 50px;
     margin: 50px;
+    justify-content: space-around;
 }
 
 img {
