@@ -1,5 +1,5 @@
 html {
-    background: lightblue;
+    background: antiquewhite;
 }
 
 body {
@@ -8,7 +8,7 @@ body {
     margin: 40px;
     padding: 40px;
     border-top: 10px solid #242424;
-    background-color: antiquewhite;
+    background-color: lightblue;
 }
 
 h1 {
