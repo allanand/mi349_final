@@ -51,6 +51,7 @@ article {
     flex-direction: column;
     width: 600px;
     align-items: center;
+    padding: 10px;
 }
 
 img {
