@@ -51,6 +51,8 @@ article {
     flex-direction: column;
     width: 600px;
     align-items: center;
+    padding: 100px;
+    margin: 100px;
     justify-content: space-around;
     jus
 }
