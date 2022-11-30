@@ -54,6 +54,10 @@ article {
     margin: 30px;
 }
 
+header {
+    align-items: center;
+}
+
 nav {
     display: flex ;
     flex-direction: row;
