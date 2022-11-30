@@ -46,3 +46,6 @@ header {
     margin-left: 200px;
 }
 
+* {
+    box-sizing: border-box;
+}
