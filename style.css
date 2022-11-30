@@ -51,9 +51,8 @@ article {
     flex-direction: column;
     width: 600px;
     align-items: center;
-    padding: 50px;
-    margin: 50px;
     justify-content: space-around;
+    jus
 }
 
 img {
