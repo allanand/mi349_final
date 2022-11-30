@@ -24,7 +24,6 @@ h2 {
 
 header {
     background-color: #1e593c;
-    align-items: center;
 }
 
 .Intro {
@@ -50,8 +49,7 @@ article {
 
 
 nav {
-    display: flex ;
-    flex-direction: row;
+    text-align: center;
 }
 
 .Drew {
