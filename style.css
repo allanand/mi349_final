@@ -52,4 +52,5 @@ article {
     width: 600px;
     column-gap: 20px;
     row-gap: 40px;
+    float: right;
 }
