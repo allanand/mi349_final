@@ -13,10 +13,13 @@ body {
 
 h1 {
     text-shadow: 5px 5px black;
+    box-shadow: 2px 2px #ffff;
+
 }
 
 h2 {
-    box-shadow: 2px 2px #ffff;
+    text-decoration: underline;
+
 }
 
 header {
