@@ -38,6 +38,13 @@ header {
     background-color: #1e593c;
 }
 
+.Drew {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid #242424 ;
+    margin-left: 200px;
+}
 
 article {
     display: flex ;
@@ -53,7 +60,3 @@ nav {
     flex-direction: row;
 }
 
-.drew {
-    margin: 0;
-    float: right;
-}
