@@ -54,3 +54,7 @@ article {
     margin: 30px;
 }
 
+nav {
+    display: flex ;
+    flex-direction: row;
+}
