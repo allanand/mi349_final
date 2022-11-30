@@ -62,5 +62,6 @@ nav {
 }
 
 img {
+    margin: 0;
     float: right;
 }
