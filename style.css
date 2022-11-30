@@ -40,6 +40,6 @@ header {
 .Drew {
     width: 200px;
     height: 200px;
-    border-radius: 60%;
-    float: 200px right;
+    border-radius: 50%;
+    object-position: right 200px;
 }
