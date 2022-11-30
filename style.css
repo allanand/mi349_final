@@ -1,5 +1,5 @@
 html {
-    background: antiquewhite;
+    background: #ffff;
 }
 
 body {
@@ -8,7 +8,7 @@ body {
     margin: 40px;
     padding: 40px;
     border-top: 10px solid #242424;
-    background-color: lightblue;
+    background-color: #133b2e;
 }
 
 h1 {
@@ -20,11 +20,11 @@ h2 {
 }
 
 header {
-    background-color: #133b2e;
+    background-color: #1e593c;
 }
 
 .Intro {
-    background-color: #133b2e;
+    background-color: #1e593c;
 }
 
 .About {
