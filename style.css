@@ -94,7 +94,6 @@ nav ul li {
 
         @media (max-width: 400px) {
             nav {
-                align-items: center;
-                border-width: auto;
+                text-align: center;
                 }
             }
