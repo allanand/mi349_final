@@ -57,12 +57,12 @@ article {
     margin: 35px;
 }
 
-#Main1 {
-    display: flex ;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-around;
-    margin: 35px;
+.Project1 {
+    background-color: #1e593c;
+}
+
+.Project2 {
+    background-color: #1e593c;
 }
 
 
