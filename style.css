@@ -27,7 +27,6 @@ h2 {
 header {
     background-color: #1e593c;
     display: flex ;
-    flex-direction: row;
     align-items: center;
     justify-content: space-around;
 }
