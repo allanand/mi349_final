@@ -115,6 +115,7 @@ nav ul li {
             font-size: 12px;
             line-height: 1.25em;
             margin: 0 auto;
+            font-size: 10px;
         }
         }
 
@@ -123,8 +124,6 @@ nav ul li {
             width: auto;
             height: auto;
             padding: 10px;
-            font-size: 10px;
-
         }
         }
 
