@@ -99,6 +99,19 @@ nav ul li {
             justify-content: space-around;
             }
         }
+
+        @media (max-width: 400px) {
+            nav {
+                margin: 1px;
+                padding: 1px;
+                line-height: 0.75em;
+                width: 200px;
+                font-size: 10px;
+                text-align: center;
+                margin: 20;
+                justify-content: space-around;
+                }
+            }
         
        /*
         line-height: 1.0em;
