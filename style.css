@@ -54,6 +54,10 @@ nav {
     text-align: center;
 }
 
+li {
+    box-shadow: 10px 5px 5px ;
+}
+
 .Drew {
     width: 150px;
     height: 150px;
