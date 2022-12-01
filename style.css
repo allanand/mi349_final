@@ -61,7 +61,7 @@ article {
     display: flex ;
     flex-direction: column;
     background-color: #1e593c;
-    padding: 20px;
+    margin: 35px;
 }
 
 
