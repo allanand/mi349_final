@@ -85,12 +85,13 @@ nav ul li {
         * {
             font-size: 20px;
             line-height: 1.2em;
+            text-align: center;
             }
         }
 
     @media (max-width: 2000px) {
         nav ul li {
-            font-size: 15px;
+            font-size: 20px;
             line-height: 1.2em;
             }
         }
