@@ -60,8 +60,8 @@ article {
 #Main1 {
     display: flex ;
     flex-direction: column;
-    margin: 35px;
     background-color: #1e593c;
+    max-width: 100px;
 }
 
 
