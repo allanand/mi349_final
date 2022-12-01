@@ -100,14 +100,14 @@ nav ul li {
 
     @media (max-width: 400px) {
         * {
-            font-size: 10px;
+            font-size: 9px;
             line-height: 0.75em;
             }
         }
 
     @media (max-width: 400px) {
         nav ul li {
-            font-size: 10px;
+            font-size: 9px;
             line-height: 0.75em;
             }
         }
