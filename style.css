@@ -57,6 +57,14 @@ article {
     margin: 35px;
 }
 
+#Main1 {
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin: 35px;
+}
+
 
 nav {
     text-align: center;
