@@ -57,8 +57,7 @@ nav {
 nav ul li {
     border: 2px solid black;
     border-width: auto;
-    display: flex ;
-    flex-direction: row;
+    margin: 10px;
 }
 
 .Drew {
