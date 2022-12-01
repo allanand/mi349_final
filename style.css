@@ -55,7 +55,8 @@ nav {
 }
 
 nav ul li {
-box-sizing: border-box;}
+    border: 1px;
+}
 
 .Drew {
     width: 150px;
