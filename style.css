@@ -57,6 +57,10 @@ article {
     margin: 35px;
 }
 
+.start {
+    background-color: #1e593c;
+}
+
 .Project1 {
     background-color: #1e593c;
 }
@@ -64,6 +68,7 @@ article {
 .Project2 {
     background-color: #1e593c;
 }
+
 
 
 nav {
