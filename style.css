@@ -114,8 +114,8 @@ nav ul li {
         nav ul li {
             font-size: 12px;
             line-height: 1.25em;
-            text-align: center;
-            }
+            align-items: center;
+        }
         }
 
     @media (max-width: 400px) {
