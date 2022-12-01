@@ -114,7 +114,7 @@ nav ul li {
         nav ul li {
             font-size: 12px;
             line-height: 1.25em;
-            align-items: center;
+            margin: 0 auto;
         }
         }
 
