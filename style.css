@@ -87,7 +87,6 @@ nav ul li {
     @media (max-width: 400px) {
         nav ul li {
             align-items: center;
-            border-width: auto;
             font-size: 5px;
             }
         }
