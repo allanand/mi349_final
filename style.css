@@ -84,6 +84,6 @@ nav ul li {
 
     @media (max-width: 400px) {
         nav ul li {
-            width: 100px;
+            border-width: auto;
             }
         }
