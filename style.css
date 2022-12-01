@@ -85,8 +85,6 @@ nav ul li {
         * {
             font-size: 20px;
             line-height: 1.2em;
-            margin: 30;
-            padding: 30px;
             }
         }
 
@@ -94,8 +92,6 @@ nav ul li {
         nav ul li {
             font-size: 20px;
             line-height: 1.2em;
-            margin: 30;
-            padding: 30px;
             }
         }
 
@@ -110,6 +106,8 @@ nav ul li {
         * {
             font-size: 9px;
             line-height: 0.75em;
+            margin: 10;
+            padding: 10px;
             }
         }
 
@@ -117,6 +115,8 @@ nav ul li {
         nav ul li {
             font-size: 9px;
             line-height: 0.75em;
+            margin: 10;
+            padding: 10px;
             }
         }
 
