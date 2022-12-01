@@ -91,3 +91,10 @@ nav ul li {
             font-size: 5px;
             }
         }
+
+        @media (max-width: 400px) {
+            nav {
+                align-items: center;
+                border-width: auto;
+                }
+            }
