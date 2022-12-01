@@ -61,7 +61,6 @@ article {
     display: flex ;
     flex-direction: column;
     background-color: #1e593c;
-    justify-content: space-around;
 }
 
 
