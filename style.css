@@ -121,7 +121,7 @@ nav ul li {
     @media (max-width: 400px) {
         nav  {
             text-align: center;
-            margin: -10 auto;
+            margin: -20 auto;
         }
         }
 
