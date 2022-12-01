@@ -58,6 +58,7 @@ nav ul li {
     display: inline-block;
     border: 2px solid black;
     border-width: auto;
+    background-color: #ffff;
 }
 
 .Drew {
