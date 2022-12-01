@@ -54,7 +54,7 @@ nav {
     text-align: center;
 }
 
-li {
+nav ul li {
     box-shadow: 10px 5px 5px ;
 }
 
