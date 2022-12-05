@@ -199,7 +199,7 @@ nav ul li {
     ;
 }
 
-@media (max-width: 2000) {
+@media (min-width: 2000) {
     .thehead .but button  {
         width: 100px;
         height: 12.5px;
