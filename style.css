@@ -117,6 +117,11 @@ article {
 button {
     color: black;
 }
+
+.lin {
+    background-color: #ffff;
+}
+
     @media (max-width: 2000px) {
         * {
             font-size: 20px;
