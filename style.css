@@ -48,15 +48,6 @@ header {
     background-color: #1e593c;
 }
 
-
-article {
-    display: flex ;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-around;
-    margin: 35px;
-}
-
 .Start {
     background-color: #1e593c;
 }
@@ -69,6 +60,13 @@ article {
     background-color: #1e593c;
 }
 
+article {
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin: 35px;
+}
 
 .Links .Email {
     display: inline-block;
