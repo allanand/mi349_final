@@ -193,4 +193,6 @@ nav ul li {
 .thehead .but button {
     width: 400px;
     height: 50px;
+    border: 4px solid black;
+    background-color: antiquewhite;
 }
