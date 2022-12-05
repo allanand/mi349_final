@@ -85,82 +85,6 @@ article {
     border: 2px solid #242424 ;
 }
 
-    @media (max-width: 2000px) {
-        * {
-            font-size: 20px;
-            line-height: 1.2em;
-            text-align: center;
-            }
-        }
-
-    @media (max-width: 2000px) {
-        nav ul li {
-            font-size: 20px;
-            line-height: 1.2em;
-            }
-        }
-
-    @media (max-width: 2000px) {
-        nav  {
-            text-align: center;
-        }
-        }
-
-
-    @media (max-width: 400px) {
-        * {
-            font-size: 12px;
-            line-height: 1.25em;
-            text-align: center;
-            }
-        }
-
-    @media (max-width: 400px) {
-        nav ul li {
-            font-size: 12px;
-            line-height: 1.25em;
-            margin: 0 auto;
-            font-size: 10px;
-            text-align: center;
-        }
-        }
-
-    @media (max-width: 400px) {
-        nav  {
-            width: auto;
-            height: auto;
-            padding: 7px;
-        }
-        }
-
-    @media (max-width: 400px) {
-        .Drew  {
-            width: 50px;
-            height: 50px;
-        }
-        }
-
-
-    @media (max-width: 400px) {
-        .Hold3 .Hold1  {
-            width: 50px;
-            height: 50px;
-        }
-        }
-        @media (max-width: 400px) {
-            .Hold3 .Hold2  {
-                width: 50px;
-                height: 50px;
-            }
-            }
-        @media (max-width: 400px) {
-            .Project2 .Tictoc  {
-                width: 50px;
-                height: 50px;
-            }
-            }
-    
-
 .Hold1 {
     width: 170px;
     height: 150px;
@@ -179,6 +103,7 @@ article {
 .project2 {
     display: flex ;
     flex-direction: column;
+    
 }
 
 .thehead .but button {
@@ -189,7 +114,64 @@ article {
     text-align: center;
     ;
 }
+    @media (max-width: 2000px) {
+        * {
+            font-size: 20px;
+            line-height: 1.2em;
+            text-align: center;
+            }
+        }
 
+
+    @media (max-width: 2000px) {
+        nav  {
+            text-align: center;
+        }
+        }
+
+
+    @media (max-width: 400px) {
+        * {
+            font-size: 12px;
+            line-height: 1.25em;
+            text-align: center;
+            }
+        }
+
+    @media (max-width: 400px) {
+        nav  {
+            width: auto;
+            height: auto;
+            padding: 7px;
+        }
+        }
+
+    @media (max-width: 400px) {
+        .Drew  {
+            width: 50px;
+            height: 50px;
+        }
+        }
+
+    @media (max-width: 400px) {
+        .Hold3 .Hold1  {
+            width: 50px;
+            height: 50px;
+        }
+        }
+    @media (max-width: 400px) {
+        .Hold3 .Hold2  {
+            width: 50px;
+            height: 50px;
+        }
+        }
+    @media (max-width: 400px) {
+        .Project2 .Tictoc  {
+            width: 50px;
+            height: 50px;
+        }
+        }
+    
 @media (max-width: 1000px) {
     .thehead .but button  {
         width: 200px;
