@@ -82,10 +82,12 @@ article {
     border-width: auto;
     background-color: #ffff;
     text-decoration: underline;
+    padding: 7px;
 }
 
 .Links .Lin {
     background-color: #ffff;
+    padding: 7px;
 }
 
 .Hold1 {
