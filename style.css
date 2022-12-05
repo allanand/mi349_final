@@ -78,7 +78,7 @@ article {
 
 .Links {
     display: flex ;
-    flex-direction: column;
+    flex-direction: row;
 }
 
 span.Mail {
