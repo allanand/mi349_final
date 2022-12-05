@@ -131,8 +131,6 @@ nav ul li {
             margin: 0 auto;
             font-size: 10px;
             text-align: center;
-            text-align: center;
-
         }
         }
 
@@ -190,4 +188,9 @@ nav ul li {
 .project2 {
     display: flex ;
     flex-direction: column;
+}
+
+button {
+    width: auto;
+    height: auto;
 }
