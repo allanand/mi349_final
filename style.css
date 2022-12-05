@@ -84,7 +84,7 @@ article {
     text-decoration: underline;
 }
 
-.Links .Lin {
+.Links:link {
     background-color: #ffff;
     border: 4px solid black;
     padding: 7px;
