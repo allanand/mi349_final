@@ -113,6 +113,10 @@ article {
     text-align: center;
     ;
 }
+
+button {
+    color: #ffff;
+}
     @media (max-width: 2000px) {
         * {
             font-size: 20px;
