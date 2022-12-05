@@ -75,7 +75,7 @@ nav {
     text-align: center;
 }
 
-#Links:first-child {
+#Links{
     display: inline-block;
     border: 4px solid black;
     border-width: auto;
