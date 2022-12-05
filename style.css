@@ -77,7 +77,8 @@ article {
 }
 
 .Links {
-    align-items: center;
+    display: flex ;
+    flex-direction: column;
 }
 
 span.Mail {
@@ -86,7 +87,6 @@ span.Mail {
     border-width: auto;
     background-color: #ffff;
     text-decoration: underline;
-    padding-block: 20px;
 }
 
 .Links .Lin {
@@ -121,7 +121,6 @@ span.Mail {
 .project2 {
     display: flex ;
     flex-direction: column;
-    
 }
 
 .thehead .but button {
