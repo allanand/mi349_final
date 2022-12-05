@@ -190,7 +190,7 @@ nav ul li {
     flex-direction: column;
 }
 
-button {
+.test .pray button {
     width: auto;
     height: auto;
 }
