@@ -115,7 +115,7 @@ article {
 }
 
 button {
-    color: #ffff;
+    color: black;
 }
     @media (max-width: 2000px) {
         * {
