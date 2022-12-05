@@ -94,7 +94,8 @@ article {
     background-color: #ffff;
     border: 4px solid black;
     padding: 7px;
-    border-width: auto;
+    width: 150px;
+    height: 150px;
 }
 
 .Hold1 {
