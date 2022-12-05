@@ -76,7 +76,7 @@ article {
     border: 2px solid #242424 ;
 }
 
-.Links:link {
+span.Mail {
     display: inline-block;
     border: 4px solid black;
     border-width: auto;
