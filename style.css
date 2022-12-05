@@ -75,12 +75,11 @@ nav {
     text-align: center;
 }
 
-nav ul li {
+.Contact .Links {
     display: inline-block;
     border: 4px solid black;
     border-width: auto;
     background-color: #ffff;
-    color: #551A8B;
     text-decoration: underline;
 }
 
