@@ -151,25 +151,25 @@ nav ul li {
 
 
     @media (max-width: 400px) {
-        .Hold1  {
+        .Hold3 .Hold1  {
             width: 30px;
             height: 30px;
         }
         }
         @media (max-width: 400px) {
-            .Hold2  {
+            .Hold3 .Hold2  {
                 width: 30px;
                 height: 30px;
             }
             }
     
 
-.Hold3 .Hold1 {
+.Hold1 {
     width: 150px;
     height: 150px;
 }
 
-.Hold3 .Hold2 {
+.Hold2 {
     width: 150px;
     height: 150px;
 }
