@@ -157,6 +157,13 @@ button {
         }
         }
 
+        @media (max-width: 2000px) {
+            .Drew {
+                width: 75px;
+                height: 75px;
+            }
+            }
+
     @media (max-width: 2000px) {
         .Links .Mail {
             width: 50px;
