@@ -162,6 +162,12 @@ nav ul li {
                 height: 50px;
             }
             }
+        @media (max-width: 400px) {
+            .Tictoc  {
+                width: 50px;
+                height: 50px;
+            }
+            }
     
 
 .Hold1 {
