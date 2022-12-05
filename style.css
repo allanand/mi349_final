@@ -203,6 +203,7 @@ nav ul li {
     .thehead .but button  {
         width: 200px;
         height: 25px;
+        border: 1.5px solid black;
     }
     }
 
@@ -210,5 +211,7 @@ nav ul li {
     .thehead .but button  {
         width: auto;
         height: auto;
+        border: 0.5px solid black;
+
     }
     }
