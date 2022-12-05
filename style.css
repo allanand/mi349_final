@@ -212,3 +212,24 @@ button {
 
     }
     }
+
+@media (max-width: 400px) {
+    .Links .Mail {
+        width: 25px;
+        height: 25px;
+    }
+    }
+
+@media (max-width: 400px) {
+    .Links .Lin  {
+        width: 25px;
+        height: 25px;
+    }
+    }
+
+@media (max-width: 400px) {
+    .Links .Hand {
+        width: 25px;
+        height: 25px;
+    }
+    }
