@@ -86,8 +86,7 @@ span.Mail {
     border-width: auto;
     background-color: #ffff;
     text-decoration: underline;
-    padding: 20px;
-}
+    padding-block: 20px;
 
 .Links .Lin {
     background-color: #ffff;
