@@ -75,7 +75,7 @@ nav {
     text-align: center;
 }
 
-.Contact .Links {
+#Links:first-child {
     display: inline-block;
     border: 4px solid black;
     border-width: auto;
