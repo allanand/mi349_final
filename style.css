@@ -215,21 +215,21 @@ button {
 
 @media (max-width: 400px) {
     .Links .Mail {
-        width: 15px;
-        height: 15px;
+        width: 10px;
+        height: 10px;
     }
     }
 
 @media (max-width: 400px) {
     .Links .Lin  {
-        width: 15px;
-        height: 15px;
+        width: 10px;
+        height: 10px;
     }
     }
 
 @media (max-width: 400px) {
     .Links .Hand {
-        width: 15px;
-        height: 15px;
+        width: 10px;
+        height: 10px;
     }
     }
