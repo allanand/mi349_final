@@ -45,6 +45,8 @@ header {
 
 .Contact {
     background-color: #1e593c;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .Start {
