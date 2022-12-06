@@ -71,7 +71,7 @@ article {
     display: flex ;
     flex-direction: column;
     margin: 35px;
-    padding: 200px;
+    padding: -200px;
 }
 
 .Drew {
