@@ -157,7 +157,7 @@ button {
         }
         }
 
-        @media (max-width: 1200px) {
+        @media (max-width: 1000px) {
             .Drew {
                 width: 100px;
                 height: 100px;
