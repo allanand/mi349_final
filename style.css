@@ -81,6 +81,7 @@ article {
     flex-direction: row;
     padding: 7px;
     margin: 10px;
+    justify-content: space-between 
 }
 
 .Links .Mail {
