@@ -141,6 +141,8 @@ article {
     border: 3px solid black;
     background-color: #A8BA94;
     text-align: center;
+    align-items: center;
+    justify-content: space-between;
     ;
 }
 
@@ -277,5 +279,4 @@ button {
     }
 
 
-    align-items: center;
-    justify-content: space-between;
+ 
