@@ -79,6 +79,7 @@ article {
 .Links {
     display: flex ;
     flex-direction: row;
+    padding: 7px;
 }
 
 .Links .Mail {
