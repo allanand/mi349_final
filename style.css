@@ -142,14 +142,14 @@ button {
         * {
             font-size: 20px;
             line-height: 1.2em;
-            text-align: center;
+            text-align: left;
             }
         }
 
 
     @media (max-width: 2000px) {
         nav  {
-            text-align: center;
+            text-align: left;
         }
         }
 
@@ -265,3 +265,7 @@ button {
         border: 1px solid #242424 ;
     }
     }
+
+
+    align-items: center;
+    justify-content: space-between;
