@@ -80,6 +80,7 @@ article {
     display: flex ;
     flex-direction: row;
     padding: 7px;
+    margin: 10px;
 }
 
 .Links .Mail {
