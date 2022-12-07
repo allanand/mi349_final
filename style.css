@@ -53,6 +53,15 @@ header {
     background-color: white;
 }
 
+a:link {
+    color:#ffff;
+}
+
+a:visited {
+    color:#ffff;
+}
+
+
 div {
     text-align: center;
     align-items: center;
