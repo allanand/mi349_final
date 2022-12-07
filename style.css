@@ -307,5 +307,10 @@ button {
     }
     }
 
-
+    @media (max-width: 400px) {
+        .plz , .welp {
+            text-align: center;
+        }
+        }
+    
  
