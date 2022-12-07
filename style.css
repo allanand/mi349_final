@@ -308,7 +308,7 @@ button {
     }
 
     @media (max-width: 400px) {
-        .plz , .welp {
+        li {
             text-align: center;
         }
         }
