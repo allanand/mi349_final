@@ -38,6 +38,16 @@ header {
     padding: 7px;
 }
 
+.but .panic {
+    width: 400px;
+    height: 50px;
+    background-color: #A8BA94;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
 div {
     text-align: center;
     align-items: center;
