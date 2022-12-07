@@ -192,7 +192,7 @@ button {
 }
 
 .plz {
-    align-items: center;
+    text-align: center;
 }
 
     @media (max-width: 2000px) {
