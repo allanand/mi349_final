@@ -115,7 +115,7 @@ article {
 
 .welp {
     list-style: none;
-    text-align: center;
+        text-align: center;
 
 }
 
@@ -199,14 +199,14 @@ button {
         * {
             font-size: 20px;
             line-height: 1.2em;
-            text-align: center;
+            text-align: left;
             }
         }
 
 
     @media (max-width: 2000px) {
         nav  {
-            text-align: center;
+            text-align: left;
         }
         }
 
@@ -242,6 +242,7 @@ button {
         * {
             font-size: 12px;
             line-height: 1.25em;
+            text-align: center;
             }
         }
 
@@ -282,6 +283,21 @@ button {
         }
         }
     
+@media (max-width: 1000px) {
+    .thehead .but button  {
+        width: 200px;
+        height: 25px;
+        border: 1.5px solid black;
+    }
+    }
+
+@media (max-width: 400px) {
+    .thehead .but button  {
+        width: auto;
+        height: auto;
+        border: 1px solid #242424 ;
+    }
+    }
 
 @media (max-width: 400px) {
     .Links .Mail {
@@ -307,5 +323,5 @@ button {
     }
     }
 
-   
+
  
