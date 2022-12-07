@@ -108,10 +108,6 @@ article {
     padding: 30px;
 }
 
-.plz {
-    list-style: none;
-    align-items: center;
-}
 
 .welp {
     list-style: none;
@@ -193,6 +189,11 @@ article {
 
 button {
     color: black;
+}
+
+.plz {
+    list-style: none;
+    align-items: center;
 }
 
     @media (max-width: 2000px) {
