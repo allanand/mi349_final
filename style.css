@@ -199,14 +199,14 @@ button {
         * {
             font-size: 20px;
             line-height: 1.2em;
-            text-align: left;
+            text-align: center;
             }
         }
 
 
     @media (max-width: 2000px) {
         nav  {
-            text-align: left;
+            text-align: center;
         }
         }
 
@@ -283,21 +283,6 @@ button {
         }
         }
     
-@media (max-width: 1000px) {
-    .thehead .but button  {
-        width: 200px;
-        height: 25px;
-        border: 1.5px solid black;
-    }
-    }
-
-@media (max-width: 400px) {
-    .thehead .but button  {
-        width: auto;
-        height: auto;
-        border: 1px solid #242424 ;
-    }
-    }
 
 @media (max-width: 400px) {
     .Links .Mail {
