@@ -108,13 +108,6 @@ article {
     padding: 30px;
 }
 
-
-.welp {
-    list-style: none;
-    text-align: center;
-
-}
-
 .Drew {
     width: 170px;
     height: 160px;
@@ -324,5 +317,10 @@ button {
     }
     }
 
+    @media (max-width: 400px) {
+        .welp {
+            text-align: center;
+        }
+        }
 
  
