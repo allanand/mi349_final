@@ -14,6 +14,14 @@ body {
 
 }
 
+a:link {
+    color:black;
+}
+
+a:visited {
+    color:black;
+}
+
 h1 {
     text-shadow: 5px 5px black;
     text-align: center;
@@ -48,18 +56,9 @@ header {
     border: 4px solid #242424 ;
 }
 
-.but .panic:hover {
+.but a:hover {
     background-color: white;
 }
-
-a:link {
-    color:black;
-}
-
-a:visited {
-    color:black;
-}
-
 
 div {
     text-align: center;
