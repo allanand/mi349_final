@@ -38,8 +38,10 @@ header {
     padding: 7px;
 }
 
-
-
+div {
+    text-align: center;
+    align-items: center;
+}
 
 .Intro {
     background-color: #1e593c;
