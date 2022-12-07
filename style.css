@@ -41,6 +41,7 @@ header {
 div {
     text-align: center;
     align-items: center;
+    justify-content: space-between;
 }
 
 .Intro {
