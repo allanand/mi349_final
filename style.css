@@ -39,8 +39,7 @@ header {
 }
 
 .but .panic {
-    width: 400px;
-    height: 50px;
+    padding: 10px 20px;
     background-color: #A8BA94;
     display: inline-block;
     text-align: center;
