@@ -96,12 +96,12 @@ div {
 article {
     display: flex ;
     flex-direction: column;
+    margin: 35px;
 }
 
 
 #Main {
     padding: 200px;
-    margin: 35px;
 }
 
 .plz {
